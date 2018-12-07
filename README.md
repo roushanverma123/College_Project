@@ -5,7 +5,8 @@ Database lab
 ------SIMPLE LIBRARY MANAGEMENT SYSTEM------
 
 language used = HTML, PHP, SQL
-PRE-requisite = xampp
+
+<br>PRE-requisite = xampp
 
 ---------------------------------------------
             installation process
